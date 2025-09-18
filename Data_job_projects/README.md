@@ -18,12 +18,12 @@ With interactive visuals and drillthrough pages, users can explore data in more 
 - **Drillthrough:** Focused insights on specific roles  
 
 ## 📷 Dashboard Overview  
-![Dashboard Overview](Images/dashboard_page1.png)  
+![Dashboard Overview](https://raw.githubusercontent.com/<username>/<repo>/main/Images/dashboard_page1.png)  
 The main dashboard shows total job postings, average ratings, median salaries, and how trends change over time.  
 It also highlights top roles like **Data Engineer, Data Analyst, and Data Scientist**, with salary comparisons across positions.  
 
 ## 🔍 Drillthrough – Senior Data Engineer  
-![Drillthrough Page](Images/dashboard_page2.png)  
+![Drillthrough Page](https://raw.githubusercontent.com/<username>/<repo>/main/Images/dashboard_page2.png)  
 Drillthrough pages provide deeper insights into one role at a time.  
 For **Senior Data Engineers**, the report shows salary ranges, remote work options, degree requirements, and job benefits.  
 It also maps global demand and highlights LinkedIn as the main platform, with most opportunities full-time.  
