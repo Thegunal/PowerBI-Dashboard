@@ -1,4 +1,4 @@
-# 📊 Data Jobs Dashboard
+# 📊 Data Jobs Dashboard 1
 An interactive **Power BI dashboard** built to explore the data jobs market. It highlights job demand, salary levels, global trends, and hiring platforms in a simple and clear way.  
 
 ## 🔹 Introduction  
@@ -29,5 +29,4 @@ For **Senior Data Engineers**, the report shows salary ranges, remote work optio
 It also maps global demand and highlights LinkedIn as the main platform, with most opportunities full-time.  
 
 ## ✅ Conclusion  
-The dashboard delivers clear and practical insights into the data job market.  
-It helps use
+The dashboard delivers clear and practical insights into the data job market.
