@@ -12,25 +12,25 @@ It helps job seekers identify in-demand roles, recruiters track hiring needs, an
 
 ---
 
-## 🛠 Skills Showcased
+## 🔧 Skills Showcased
 
-- Advanced Dashboard Design (Single-Page UX & Optimization)  
-- Complex Power Query Transformations  
-- Star Schema Data Modeling Principles  
-- Explicit DAX Measures (e.g., CALCULATE, context modifiers)  
-- Dynamic Visualizations (driven by Parameters/Slicers)  
-- Field & Numeric Parameter Implementation for "What-If" Analysis  
-- Enhanced Geospatial Insights  
-- Advanced Card Visualizations  
-- Optimized Slicers & Advanced Cross-Filtering Techniques  
+- **⚡ Advanced Dashboard Design** – Single-Page UX & Optimization  
+- **🛠 Power Query Transformations** – Complex data cleaning and shaping  
+- **🗂 Data Modeling** – Star Schema principles for structured datasets  
+- **📊 DAX & Measures** – Explicit calculations (e.g., CALCULATE, context modifiers)  
+- **🎛 Dynamic Visualizations** – Driven by Parameters and Slicers  
+- **🎯 What-If Analysis** – Field & numeric parameter implementation  
+- **🗺 Geospatial Insights** – Enhanced maps and location-based analysis  
+- **🖼 Advanced Card Visuals** – Custom KPIs and summary visuals  
+- **🔄 Slicers & Cross-Filtering** – Optimized interactivity across the dashboard  
 
 ---
 
 ## 📷 Dashboard Preview
+
 ![Dashboard Overview](https://raw.githubusercontent.com/thegunal/PowerBI-Dashboard/main/Images/dashboard2_page1.png)
 
-
-
+---
 
 ### 📊 Dashboard Overview
 
