@@ -15,12 +15,12 @@ It highlights job demand, salaries, global trends, and hiring platforms.
 ![Dashboard Preview](./Images/dashboard_page1.png)
 
 🔧 **Skills Showcased**  
-- **Power Query** – Cleaning and shaping raw data  
-- **DAX & Measures** – Building calculations for insights  
-- **Data Modeling** – Relationships and implicit measures  
-- **Visualizations** – Bar, line, scatter plots, KPIs, maps  
-- **Dashboard Design** – Layout, navigation, bookmarks  
-- **Advanced Features** – Drillthrough, slicers, interactivity  
+- 🧹 **Power Query** – Cleaning and shaping raw data  
+- 📊 **DAX & Measures** – Building calculations for insights  
+- 🗂 **Data Modeling** – Relationships and implicit measures  
+- 📈 **Visualizations** – Bar, line, scatter plots, KPIs, maps  
+- 🎨 **Dashboard Design** – Layout, navigation, bookmarks  
+- 🎛️ **Advanced Features** – Drillthrough, slicers, interactivity  
 
 🔗 [Read Full Project Details](https://github.com/Thegunal/PowerBI-Dashboard/tree/main/Data_job_project1)
 
