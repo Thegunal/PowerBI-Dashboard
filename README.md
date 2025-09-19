@@ -22,7 +22,7 @@ It highlights job demand, salaries, global trends, and hiring platforms.
 - **Dashboard Design** – Layout, navigation, bookmarks  
 - **Advanced Features** – Drillthrough, slicers, interactivity  
 
-🔗 [Read Full Project Details](./Data_job_projects/README.md)
+🔗 [Read Full Project Details](https://github.com/Thegunal/PowerBI-Dashboard/tree/main/Data_job_project1)
 
 ---
 
@@ -44,4 +44,6 @@ It allows users to explore hiring trends, salaries, skills demand, and regional 
 - **🖼 Advanced Card Visuals** – Custom KPIs and summary visuals  
 - **🔄 Slicers & Cross-Filtering** – Optimized interactivity across the dashboard  
 
-🔗 [Read Full Project Details](./Data_job_projects_2/README.md)
+🔗 [Read Full Project Details](https://github.com/Thegunal/PowerBI-Dashboard/tree/main/Data_job_project2)
+
+---
