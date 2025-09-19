@@ -14,16 +14,16 @@ It highlights job demand, salaries, global trends, and hiring platforms.
 📷 **Preview**  
 ![Dashboard Preview](./Images/dashboard_page1.png)
 
-🔧 **Skills Showcased**  
-- 🧹 Power Query: Data cleaning and transformation
-📊 Implicit Measures: Built-in aggregations for quick insights
-📈 Core Charts: Bar, line, and scatter plots for analysis
-🗺️ Geospatial Analysis: Mapping job locations worldwide
-🖥️ KPIs & Tables: Key numbers with supporting detail views
-🎨 Dashboard Design: Clean, structured, and user-friendly layout
-🎛️ Slicers: Interactive filters for easy exploration
-🔘 Buttons & Bookmarks: Simple navigation across pages
-🔍 Drillthrough: Focused insights on specific roles
+🔧 **Skills Showcased**   
+- 🧹 **Power Query:** Data cleaning and transformation  
+- 📊 **Implicit Measures:** Built-in aggregations for quick insights  
+- 📈 **Core Charts:** Bar, line, and scatter plots for analysis  
+- 🗺️ **Geospatial Analysis:** Mapping job locations worldwide  
+- 🖥️ **KPIs & Tables:** Key numbers with supporting detail views  
+- 🎨 **Dashboard Design:** Clean, structured, and user-friendly layout  
+- 🎛️ **Slicers:** Interactive filters for easy exploration  
+- 🔘 **Buttons & Bookmarks:** Simple navigation across pages  
+- 🔍 **Drillthrough:** Focused insights on specific roles  
 
 🔗 [Read Full Project Details](https://github.com/Thegunal/PowerBI-Dashboard/tree/main/Data_job_project1)
 
